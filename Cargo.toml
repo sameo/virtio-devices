@@ -1,0 +1,12 @@
+[package]
+name = "virtio-devices"
+version = "0.1.0"
+authors = ["Samuel Ortiz <sameo@linux.intel.com>"]
+description = "virtio devices library"
+repository = "https://github.com/rust-vmm/virtio-devices"
+readme = "README.md"
+keywords = ["virtio"]
+license = "Apache-2.0"
+edition = "2018"
+
+[dependencies]
